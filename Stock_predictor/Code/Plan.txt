@@ -1,0 +1,13 @@
+Listing below the features and plans that can/will be added to the project:
+1. Have 2 tabs:
+	i) Long term investment - 
+		a)Past P&L statements and other released docs on NSE are parsed and that info is used to select stocks
+		b) Based on various indicators the correct buy price and sell price are displayed.
+		c) There will be an option to see more info  on the selected stock
+	
+	ii) Short-term investment/ swing trading - 
+		a) Appropriate buy and sell price are displayed along with the selected stock
+		b) Top 5/10 stocks are displayed based on some score or confidence interval
+		c) The reasoning is also mentioned on why each stock is selected
+
+2. 
